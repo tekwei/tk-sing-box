@@ -69,8 +69,6 @@ Xray/V2Ray 导入器转换常见 VMess、VLESS、Trojan、Shadowsocks、SOCKS、
 - 卸载会移除程序、配置和服务单元，但保留 sing-box 系统用户/组，避免误删可能被复用的账户。
 
 ## 参考
-
-- [233Boy sing-box 脚本介绍](https://233boy.com/sing-box/sing-box-script/)
 - [sing-box 官方 GitHub Releases](https://github.com/SagerNet/sing-box/releases)
 - [sing-box 官方入站文档](https://sing-box.sagernet.org/configuration/inbound/)
 - [sing-box V2Ray Transport 文档](https://sing-box.sagernet.org/configuration/shared/v2ray-transport/)
